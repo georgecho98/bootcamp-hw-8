@@ -18,10 +18,10 @@
     Download the repostary.
     Edit the .env file using your username, and password. 
     Run the schema.sql , and use the seed.sql to build sample database.
-    npm install, npm install express, npm install pg, npm install dotenv, npm install inquirer, npm run build, npm run dev
+    npm install, npm install express, npm install pg, npm install dotenv, npm install inquirer
     
 ## Usage
-    npm RUN START
+    Node index.js
 
 ## License
     no license

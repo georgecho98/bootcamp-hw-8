@@ -178,7 +178,7 @@ class init {
               if (err) {
                   console.log(err);
               } else {
-                  console.log('Role added successfully!');
+                  console.log('Role Updated successfully!');
                   return;}
                   pool.end;
                   this.start();

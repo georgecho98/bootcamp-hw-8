@@ -4,8 +4,7 @@
   "description": "## Description     This is a employee database managment apps. It interfaces with SQL system to store data. Retrieving data from the SQL to display the employee data.",
   "main": "index.js",
   "scripts": {
-    "build": "npx tsc",
-    "start": "npm run build && node index.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
