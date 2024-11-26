@@ -35,6 +35,6 @@
 ## Questions
     
     If you have any questions, feel free to reach out to me at (mailto:chauhk88@gmail.com).
-    http://github.com/georgecho98
+    https://georgecho98.github.io/bootcamp-hw-8/
 
     The demostration link is https://app.screencastify.com/v3/watch/6Yr8JTpar6G5I2QwcHQr
