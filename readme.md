@@ -1,31 +1,33 @@
-## MiMi Weather forcast apps 
+## Tramp Database manager  
 
 ## Description
-    This is a weather forcast apps. It utilizes the API key from the openweather staion to extract weather data based on the city entry. Retrieving data from a third party website application's API and using it in their context, frequently consuming this data via a server.
+    This is a employee database managment apps. It interfaces with SQL system to store data. Retrieving data from the SQL to display the employee data.
 
     
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
-4. [Contributing](#contributing)
+4. [Credit](#credit)
 5. [Tests](#tests)
 6. [Questions](#questions)
 
 
 ## Installation 
     
-    npm install, npm install express, npm run build, npm run dev
-    upload to github and setup the render integration
-
+    Download the repostary.
+    Edit the .env file using your username, and password. 
+    Run the schema.sql , and use the seed.sql to build sample database.
+    npm install, npm install express, npm install pg, npm install dotenv, npm install inquirer, npm run build, npm run dev
+    
 ## Usage
-    User, github distributer
+    npm RUN START
 
 ## License
     no license
 
-## Contributing
-    Any teammates in the team
+## Credit
+    PostGres SQL,
 
 ## Tests
     npm run test
@@ -35,4 +37,4 @@
     If you have any questions, feel free to reach out to me at (mailto:chauhk88@gmail.com).
     http://github.com/georgecho98
 
-    The demostration link is 
+    The demostration link is https://app.screencastify.com/v3/watch/6Yr8JTpar6G5I2QwcHQr
